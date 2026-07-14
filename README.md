@@ -4,7 +4,7 @@ Dieses Repository enthält einen OER-Baustein für das Skript zum Thema "Dokumen
 
 Im Ordner "img" befindet sich das Bildmaterial, das in der Übung verwendet wird. Die Metadaten für den OER-Baustein befinden sich in den Dateien "autor_innen.yml", "oer_metadata.yml" und im Header der qmd-Datei.
 
-# Open Educational Resources (OER)
+## Open Educational Resources (OER)
 
 Für die Ordnerstruktur und den Aufbau des Templates siehe https://nfdi4objects.github.io/oer-template-dokumentation/
 
@@ -15,3 +15,7 @@ Dieses Material steht unter der Lizenz Creative Commons Attribution 4.0 Internat
 Förderung
 
 Die Materialien entstanden in dem von der DFG geförderten Projekt "NFDI4Objects - Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheitsgeschichte und wurden an der Hochschule Mainz entwickelt.
+
+## Förderung
+
+Die Materialien entstanden in dem von der DFG geförderten Projekt "[NFDI4Objects - Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheitsgeschichte](https://gepris.dfg.de/project/501836407)" und wurden an der Hochschule Mainz entwickelt.
