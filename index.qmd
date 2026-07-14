@@ -343,7 +343,7 @@ Dieses Skript nutzt das [OER-Skript-Template von NFDI4Objects](https://github.co
 
 ## Disclaimer: Einsatz von LLM {.appendix .unnumbered}
 
-Bei der Erstellung dieses Templates wurden keine KI-basierten Werkzeuge eingesetzt.
+Bei der Erstellung dieses Skripts wurden KI-basierte Werkzeuge eingesetzt.
 
 <!-- Optionale Angaben zum Einsatz von LLM bei der Erstellung oder Überarbeitung des Skripts -->
 
